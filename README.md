@@ -1,5 +1,5 @@
 # tempconversion
-A simple work in progress program that converts Fahrenheit to Celsius.
+A simple work in progress program that converts Fahrenheit to Celsius, vice versa.
 
 August 8th, 2023: 
 - Implemented Celsius to Fahrenheit conversion system
